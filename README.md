@@ -10,3 +10,9 @@ metrics (0.82, 0.92), and after feature importance analysis I generated 2D profi
 Originally based on gene expression profiles, the loan default 2d profiles are landscapes indicating the effect of each feature to the distribution of the (non-/)defaulter populations.
 The aim of this approach is to illustrate hidden associations between features as well as to indicate which combination of feature better represent the trajectory towards defaulting a 
 loan. 
+
+### **A profile of bank clients based on delinquency and derogatory marks**
+<br>
+
+![](figures/profile_example.png)
+<br>
